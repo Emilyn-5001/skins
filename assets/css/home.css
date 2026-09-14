@@ -35,7 +35,7 @@ section{
 .skin{
     width: 18%;
     height: 30vh;
-    background: #fff;
+    background: #3f3f3f;
     margin-left: 1.6%;
     margin-top: 0.5vh;
     float: left;
@@ -54,9 +54,11 @@ img{
 }
 h2{
  text-align: center;
+
 }
 #valorant h2{
     font-family: 'VALORANT', sans-serif;
+    
 }
 #cs2 h2{
     font-family: 'Counter-Strike', sans-seri
@@ -71,7 +73,7 @@ h1{
     font-family: 'VALORANT', sans-serif;
 }
 #cs2 h1{
-    font-family: 'Counter-Strike', sans-seri
+    font-family: 'Counter-Strike', sans-serif;
 }
 footer{
     width: 100%;
